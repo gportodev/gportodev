@@ -1,4 +1,4 @@
-### Hi guys, I'm Gabriel Porto 👋
+### Hi everyone, I'm Gabriel Porto 👋
 
 I'm a Mobile Developer, also a huge fan of UI ❤️ and passionate about apps📱
 
