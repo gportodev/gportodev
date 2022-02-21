@@ -6,9 +6,9 @@ I'm a Mobile Developer, also a huge fan of UI ❤️ and passionate about apps�
 
 - 💬 Ask me about React Native
  
-- 📫 How to reach me: gportodev@gmail.com
+- 📫 How to reach me gportodev@gmail.com
 
-- ⚡ Fun fact: I ❤️ games
+- ⚡ Fun fact I ❤️ games
 
 Language and Tools:
 
