@@ -18,3 +18,4 @@ Language and Tools:
 ![icons8-figma](https://user-images.githubusercontent.com/34238796/154811659-67cab2b7-e850-426a-a4a3-5841758c9951.svg)
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/34238796/154811577-5e6729be-258b-44db-8108-7c7d47bf8080.svg)
 ![icons8-android-os](https://user-images.githubusercontent.com/34238796/154812017-72e94eee-c6b5-48c6-ad5d-77b6c26fafa6.svg)
+![icons8-expo-50 (1)](https://github.com/user-attachments/assets/0a24e7be-8506-4940-888b-3b923cf8b13e)
