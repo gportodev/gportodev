@@ -1,16 +1,21 @@
-### Hi everyone, I'm Gabriel Porto 👋
+## Hi everyone, I'm Gabriel Porto! 👋
+I'm a Mobile Developer passionate about UI/UX ❤️ and app development 📱.
 
-I'm a Mobile Developer, also a huge fan of UI ❤️ and passionate about apps📱
+🚀 Over the years, I’ve been constantly improving my skills to build high-quality, user-friendly applications.
 
-- 🌱 I'm currently learning about App Development
+💡 Currently focused on React Native, always exploring new ways to enhance performance, usability, and design.
 
-- 💬 Ask me about React Native
- 
-- 📫 How to reach me gportodev@gmail.com
+💬 Ask me about React Native, TypeScript, JavaScript, Expo, Android, and UI/UX Design.
 
-- ⚡ Fun fact I ❤️ games
+📫 You can reach me at gportodev@gmail.com.
 
-Language and Tools:
+📱 Play Store Apps:
+🔹 PokeApp – Explore detailed Pokémon information!
+🔗 Play Store Link
+
+🎮 Fun fact: I'm a huge gaming fan!
+
+🛠 Tech Stack:
 
 ![icons8-react-native](https://user-images.githubusercontent.com/34238796/154811716-af5c2405-1013-4f4a-a00a-86f12b540f35.svg)
 ![icons8-typescript](https://user-images.githubusercontent.com/34238796/154810923-fd77cf42-b01d-4fdd-a876-01a7134c2420.svg)
