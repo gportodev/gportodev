@@ -9,12 +9,11 @@ I'm a Mobile Developer passionate about UI/UX ❤️ and app development 📱.
 
 📫 You can reach me at gportodev@gmail.com.
 
-📱 Play Store Apps:
-🔹 PokeApp – Explore detailed Pokémon information!
-🔗 Play Store Link
-
 🎮 Fun fact: I'm a huge gaming fan!
 
+📱Play Store Apps:
+- [PokeApp – Explore detailed Pokémon information!](https://play.google.com/store/apps/details?id=com.gamonpo.pokeapp)
+  
 🛠 Tech Stack:
 
 ![icons8-react-native](https://user-images.githubusercontent.com/34238796/154811716-af5c2405-1013-4f4a-a00a-86f12b540f35.svg)
