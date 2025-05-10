@@ -12,7 +12,8 @@ I'm a Mobile Developer passionate about UI/UX ❤️ and app development 📱.
 🎮 Fun fact: I'm a huge gaming fan!
 
 📱Play Store Apps:
-- [PokeApp – Explore detailed Pokémon information!](https://play.google.com/store/apps/details?id=com.gamonpo.pokeapp)
+- [PokeApp – Explore detailed Pokémon information.](https://play.google.com/store/apps/details?id=com.gamonpo.pokeapp)
+- [GoFinance - A personal finance app that allows you to manage all your finances.](https://play.google.com/store/apps/details?id=com.gofinance)
   
 🛠 Tech Stack:
 
