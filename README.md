@@ -14,7 +14,8 @@ I'm a Mobile Developer passionate about UI/UX ❤️ and app development 📱.
 📱Play Store Apps:
 - [PokeApp – Explore detailed Pokémon information.](https://play.google.com/store/apps/details?id=com.gamonpo.pokeapp)
 - [GoFinance - A personal finance app that allows you to manage all your finances.](https://play.google.com/store/apps/details?id=com.gofinance)
-- [CineWiki – Search for all your favorite movie titles](https://play.google.com/store/apps/details?id=com.gamonpo.cinemapp)
+- [CineWiki – Search for all your favorite movie titles.](https://play.google.com/store/apps/details?id=com.gamonpo.cinemapp)
+- [MetasOn – Helps you turn financial goals into clear progress and real achievements.](https://play.google.com/store/apps/details?id=com.gportodev.metason)
   
 🛠 Tech Stack:
 
