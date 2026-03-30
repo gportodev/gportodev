@@ -22,7 +22,6 @@ I focus on creating scalable, maintainable, and production-ready mobile apps —
 - App Store & Play Store publishing 
 
 📱 Published Apps on Play Store:
-- [PokeApp – Pokémon data explorer](https://play.google.com/store/apps/details?id=com.gamonpo.pokeapp)
 - [GoFinance - Personal finance manager](https://play.google.com/store/apps/details?id=com.gofinance)
 - [CineWiki – Movie search app](https://play.google.com/store/apps/details?id=com.gamonpo.cinemapp)
 - [MetasOn – Financial goal tracking app](https://play.google.com/store/apps/details?id=com.gportodev.metason)
